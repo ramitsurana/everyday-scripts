@@ -23,3 +23,6 @@ alias azure-storage='nohup $HOME/everyday-scripts/AzureStorage/StorageExplorer &
 alias pwsh='TERM=xterm pwsh'
 
 ```
+## Use Zsh
+
+After Installing Zsh - https://ohmyz.sh/
